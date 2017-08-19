@@ -1,0 +1,20 @@
+{
+  "name": "json-simulator",
+  "version": "1.0.0",
+  "description": "Tool to make it easy to develop without depending of the backend",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "json",
+    "server"
+  ],
+  "author": "leonardocregis",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^8.0.24",
+    "express": "^4.15.4"
+  }
+}
