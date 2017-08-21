@@ -1,5 +1,4 @@
 # json-simulator
-A simulating server to return answers to a testing enviroment
 
 A simple server that answers to a configured URL with a JSON of your choice.
 
