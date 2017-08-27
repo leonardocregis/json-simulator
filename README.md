@@ -2,8 +2,6 @@
 
 A simple server that answers to a configured URL with a JSON of your choice.
 
-The soluction is a skeleton and now is pretty simple right now.
-
 To use it , configure the json configurations file "definitions.json" as you would like:
 
 {
