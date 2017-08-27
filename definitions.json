@@ -4,7 +4,8 @@
                     "url": "/app",
                     "response": {
                         "teste": 2
-                    }
+                    },
+                    "method": "post"
                 }
     ]
 }
