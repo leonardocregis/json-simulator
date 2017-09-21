@@ -5,7 +5,8 @@
                     "response": {
                         "teste": 2
                     },
-                    "method": "post"
+                    "method": "post",
+                    "statusCode": 500
                 }
     ]
 }
