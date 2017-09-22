@@ -11,7 +11,8 @@ To use it , configure the json configurations file "definitions.json" as you wou
                     "response": {
                         "teste": 2
                     },
-                    "method": "post"
+                    "method": "post",
+                    "statusCode": 400,
                 }
     ]
 }
@@ -38,3 +39,5 @@ change the "definitions.json" as below:
                 }
     ]
 }
+
+If you want a different status code answer, just change the variable "statusCode" with the needed value
